@@ -1,2 +1,2 @@
-puts "Welcome to Tic Tac Toe!"
+putsleanr "Welcome to Tic Tac Toe!"
 
